@@ -14,12 +14,8 @@ This project was generated with [node-seed](https://github.com/bravedragon623/no
 1. Go to project folder and install dependencies:
  ```sh
  npm install
- ```
-2. Download region names from Cloudant
-```sh
-node db.js
 ```
-3. Launch development server, and listening on port 80:
+2. Launch development server, and listening on port 80:
  ```sh
  npm start
  ```
